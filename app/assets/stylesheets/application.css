@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+.map{
+  background-position: center;
+  height: 350px;
+  background-image: url("https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200");
+}
